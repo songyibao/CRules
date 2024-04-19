@@ -7,5 +7,5 @@ payload:
   - PROCESS-NAME,网易云音乐
   - PROCESS-NAME,WPS Office
   - PROCESS-NAME,夸克网盘
-  - PROCESS-NAME,音乐
+  - PROCESS-NAME,Music
   - PROCESS-NAME,waterfox
