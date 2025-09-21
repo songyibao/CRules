@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,Dropbox
+  - PROCESS-NAME,DropboxFileProvider
+  - PROCESS-NAME,Code Helper (Plugin)
+  - PROCESS-NAME,Telegram
