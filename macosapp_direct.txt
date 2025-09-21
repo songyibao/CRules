@@ -5,9 +5,6 @@ payload:
   - PROCESS-NAME,哔哩哔哩
   - PROCESS-NAME,腾讯视频
   - PROCESS-NAME,网易云音乐
-  - PROCESS-NAME,WPS Office
   - PROCESS-NAME,夸克网盘
   - PROCESS-NAME,Music
   - PROCESS-NAME,waterfox
-  - PROCESS-NAME,OneDrive
-  - PROCESS-NAME,OneDrive File Provider
