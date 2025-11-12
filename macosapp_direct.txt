@@ -8,3 +8,4 @@ payload:
   - PROCESS-NAME,夸克网盘
   - PROCESS-NAME,Music
   - PROCESS-NAME,waterfox
+  - PROCESS-NAME,pcsuite Helper
