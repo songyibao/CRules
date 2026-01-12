@@ -6,5 +6,7 @@ payload:
   - PROCESS-NAME,Cursor Helper (Plugin)
   - PROCESS-NAME,Cursor Helper
   - PROCESS-NAME,Telegram
+  - PROCESS-NAME,Antigravity
   - PROCESS-NAME,Antigravity Helper
   - PROCESS-NAME,Antigravity Helper (Plugin)
+  - PROCESS-NAME,language_server_macos_arm
